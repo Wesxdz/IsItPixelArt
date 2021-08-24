@@ -1,0 +1,3 @@
+[submodule "data/no"]
+	path = data/no
+	url = https://github.com/EliSchwartz/imagenet-sample-images.git
