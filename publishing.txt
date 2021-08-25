@@ -1,0 +1,16 @@
+Model description - this is the whole description of what the model does (e.g. model page - the text in summary block)
+Evaluates an image and classifies whether it is pixel art or not. This is helpful for automating scaling algorithm selection: ie nearest neighbor vs linear by default.
+Model description preview short - the text people see on a card on the main page (just after the model name)
+Pixel art detector 
+Model name full - on a model page - (e.g. Faster region-based convolutional neural network with ResNet-50 FPN backbone, model page)
+Is it pixel art
+Model name short - on the main page (e.g. Faster R-CNN)
+Is it pixel art
+Dataset name - it may be public data e.g. MSCOCO or Open images, or your internal dataset
+Custom, gathered and verified from multiple sources
+Preview image - we will run a model on the image and will use its output for visualization. This image will be both on the main page and on the model page
+License - license type e.g. Apache 2.0, MIT, Proprietary and so on
+Number of classes
+Author - your name or company name
+Wesxdz
+Metrics - accuracy of your model
