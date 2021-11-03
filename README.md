@@ -32,19 +32,23 @@ Some of the earliest non pixel art games were created for [Nintendo 64](https://
 
 #### Data
 When I started this project, there were no [open datasets](https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research) available for machine learning on pixel art images.
+
 How to collect a dataset of pixel art from the internet?
 
-<img style="align:left;position:absolute;z-index:-1;height:400px;" src="https://imgflip.com/s/meme/Drake-Hotline-Bling.jpg"/>
-<table style="border:none;">
-    <tr style="height:200px;">
-        <th style="width:28%;"/>
+<table style="align:right;border:none;position:absolute;">
+    <tr>
         <th>
-            <ul style="text-align:left">
-                <li>Images from <a href="https://twitter.com/search?q=%23pixelart">tweets tagged with #pixelart</a></li>
+           <img src="https://litreactor.com/sites/default/files/images/column/headers/drake_ignores_writing_advice.jpg">
+       </th>
+        <th width=50%>
+            <ul float=left>
+                <li><p>Images from <a href="https://twitter.com/search?q=%23pixelart">tweets tagged with #pixelart</p></a></li>
         </th>
     </tr>
-    <tr style="height:200px;">
-        <th/>
+    <tr>
+        <th>
+           <img src="https://i.kym-cdn.com/entries/icons/original/000/020/147/drake.jpg">
+       </th>
         <th>
             <ul style="text-align:left">
                 <li><a href="https://opengameart.org/art-search?keys=pixelart">Assets from OpenGameArt filtered by tag, art type, and license</a></li>
